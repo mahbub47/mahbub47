@@ -1,4 +1,4 @@
-# Hey, I'm Mahbub 👋
+# Hey, I'm Ashik 👋
 
 ## 💫 About Me:
 🔭 I’m currently working on<br>Backend projects using C# and ASP.NET Core, focusing on REST APIs and authentication systems.<br><br>👯 I’m looking to collaborate on<br>Backend-focused projects, API development, and real-world software systems.<br><br>🤝 I’m looking for help with<br>Backend architecture, system design, and writing cleaner, scalable code.<br><br>🌱 I’m currently learning<br>Advanced ASP.NET Core, backend best practices, and system design fundamentals.<br><br>💬 Ask me about<br>Backend development, REST APIs, authentication (JWT), databases, and Git/GitHub.<br><br>⚡ Fun fact<br>I enjoy understanding how systems work behind the scenes more than designing UIs.
